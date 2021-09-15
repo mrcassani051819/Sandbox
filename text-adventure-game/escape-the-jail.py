@@ -11,7 +11,7 @@ while not start_sig:
     else:
         pass
 
-# A Room class. Rooms are linked nodes in a 'tree-like' structure.
+# A Room class. Rooms are linked nodes in a graph structure.
 class Room:
     def __init__(self, name="", north=None, south=None, east=None, west=None):
         self.name = name
