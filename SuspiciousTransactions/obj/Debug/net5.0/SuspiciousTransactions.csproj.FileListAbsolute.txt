@@ -1,0 +1,15 @@
+/Users/matt/Development/Sandbox/c#/SuspiciousTransactions/bin/Debug/net5.0/SuspiciousTransactions.deps.json
+/Users/matt/Development/Sandbox/c#/SuspiciousTransactions/bin/Debug/net5.0/SuspiciousTransactions.runtimeconfig.json
+/Users/matt/Development/Sandbox/c#/SuspiciousTransactions/bin/Debug/net5.0/SuspiciousTransactions.runtimeconfig.dev.json
+/Users/matt/Development/Sandbox/c#/SuspiciousTransactions/bin/Debug/net5.0/SuspiciousTransactions.dll
+/Users/matt/Development/Sandbox/c#/SuspiciousTransactions/bin/Debug/net5.0/ref/SuspiciousTransactions.dll
+/Users/matt/Development/Sandbox/c#/SuspiciousTransactions/bin/Debug/net5.0/SuspiciousTransactions.pdb
+/Users/matt/Development/Sandbox/c#/SuspiciousTransactions/obj/Debug/net5.0/SuspiciousTransactions.csproj.AssemblyReference.cache
+/Users/matt/Development/Sandbox/c#/SuspiciousTransactions/obj/Debug/net5.0/SuspiciousTransactions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matt/Development/Sandbox/c#/SuspiciousTransactions/obj/Debug/net5.0/SuspiciousTransactions.AssemblyInfoInputs.cache
+/Users/matt/Development/Sandbox/c#/SuspiciousTransactions/obj/Debug/net5.0/SuspiciousTransactions.AssemblyInfo.cs
+/Users/matt/Development/Sandbox/c#/SuspiciousTransactions/obj/Debug/net5.0/SuspiciousTransactions.csproj.CoreCompileInputs.cache
+/Users/matt/Development/Sandbox/c#/SuspiciousTransactions/obj/Debug/net5.0/SuspiciousTransactions.dll
+/Users/matt/Development/Sandbox/c#/SuspiciousTransactions/obj/Debug/net5.0/ref/SuspiciousTransactions.dll
+/Users/matt/Development/Sandbox/c#/SuspiciousTransactions/obj/Debug/net5.0/SuspiciousTransactions.pdb
+/Users/matt/Development/Sandbox/c#/SuspiciousTransactions/obj/Debug/net5.0/SuspiciousTransactions.genruntimeconfig.cache
